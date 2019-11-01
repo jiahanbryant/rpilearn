@@ -1,4 +1,3 @@
-www.derekmolloy.ie
-====
+hello,
 
 Test Repository for Exploring Git
